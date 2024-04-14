@@ -1,4 +1,4 @@
-# Weekly Challenge #12 - 3-Body Eclipse
+# Weekly Challenge #13 - 3-Body Eclipse
 
 **For this challenge, you need to implement a program that given the position of three celestial bodies, will predict the time of the next eclipse, when they are aligned in a straight line.** This week theme is inspired by the total eclipse today in North America and the "3-body Problem" TV Show that was just released.
 
