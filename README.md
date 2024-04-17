@@ -4,6 +4,15 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-13-three-body-eclipse/assets/197597/47e5a2af-fba1-4117-b9ea-3e5f17eca4e3">
 
+### Winners:
+
+* The winner for $100 is @morenicogs with this amazing visualization of what the planet sees and hides based on the universe. This is a really cool use of Ray Marching. https://github.com/Algorithm-Arena/weekly-challenge-13-three-body-eclipse/issues/1
+
+
+
+https://github.com/Algorithm-Arena/weekly-challenge-13-three-body-eclipse/assets/197597/28853768-434b-4321-b14c-cead80fad2cb
+
+
 
 ### Prizes:
 * Winner: $100
