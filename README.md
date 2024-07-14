@@ -6,7 +6,7 @@
 
 ### Winners:
 
-* The winner for $100 is @morenicogs with this amazing visualization of what the planet sees and hides based on the universe. This is a really cool use of Ray Marching. https://github.com/Algorithm-Arena/weekly-challenge-13-three-body-eclipse/issues/1
+* The winner for $100 is @nicogs with this amazing visualization of what the planet sees and hides based on the universe. This is a really cool use of Ray Marching. https://github.com/Algorithm-Arena/weekly-challenge-13-three-body-eclipse/issues/1
 
 
 
